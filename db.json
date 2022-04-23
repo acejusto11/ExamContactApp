@@ -1,0 +1,76 @@
+{
+  "contacts": [
+    {
+      "title": "Mr.",
+      "firstName": "Sanemi",
+      "lastName": "Shinazugawa",
+      "gender": "Male",
+      "emailAddress": "sanemi@delmonte.com",
+      "mobileNumber": "6767676",
+      "address": "123 Philippines",
+      "companyName": "Del Monte Philippines",
+      "position": "CFO",
+      "id": 2
+    },
+    {
+      "title": "Mr.",
+      "firstName": "Giyu",
+      "lastName": "Tomioka",
+      "gender": "Male",
+      "emailAddress": "tomioka@pandg.com",
+      "mobileNumber": "7676 767676",
+      "address": "",
+      "companyName": "Procter and Gamble",
+      "position": "HR Director",
+      "id": 3
+    },
+    {
+      "title": "Mr.",
+      "firstName": "Muichiro",
+      "lastName": "Tokito",
+      "gender": "Male",
+      "emailAddress": "muichiro@riteMed.com",
+      "mobileNumber": "67676 6767",
+      "address": "",
+      "companyName": "RiteMed",
+      "position": "Director",
+      "id": 4
+    },
+    {
+      "title": "",
+      "firstName": "Shinobu",
+      "lastName": "Kocho",
+      "gender": "",
+      "emailAddress": "shinobu@csv.com",
+      "mobileNumber": "454 454545",
+      "address": "123 Philippines 3",
+      "companyName": "CSV",
+      "position": "Director",
+      "id": 6
+    },
+    {
+      "title": "Mr.",
+      "firstName": "Tengen",
+      "lastName": "Uzui",
+      "gender": "Male",
+      "emailAddress": "tengen@fujitsu.com",
+      "mobileNumber": "7897978979",
+      "address": "123 Philippines 3",
+      "companyName": "Fujitsu",
+      "position": "Director",
+      "id": 7
+    },
+    {
+      "title": "",
+      "firstName": "Zenitsu ",
+      "lastName": "Agatsuma",
+      "gender": "Male",
+      "emailAddress": "ace@test.com",
+      "mobileNumber": "244444454 ",
+      "address": "Japan",
+      "companyName": "Coca Cola",
+      "position": "Director",
+      "id": 8
+    }
+  ]
+}
